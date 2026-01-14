@@ -4,7 +4,6 @@
 
 I'm a 3rd year Data Science student at UC San Diego passionate about AI/ML engineering. I love building machine learning project and learning AI engineering. 
 
-- 🔭 I'm currently working on a study buddy AI agent
 - 🌱 I'm currently learning AI/ML engineering
 - 👯 I'm looking to collaborate on open source or startup projects
 - 📫 How to reach me: nvnguyen109@gmail.com
