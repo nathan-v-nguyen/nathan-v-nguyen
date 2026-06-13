@@ -7,7 +7,6 @@ I'm a 3rd year Data Science student at UC San Diego passionate about AI/ML engin
 
 ## Projects
 Moodify - AI Music Recommendation Engine: [moodify.streamlit.app](https://spotify-song-recommender-cbdygkccpyqqsgzntmrpru.streamlit.app)
-## Tech Stack
 
 ## Connect With Me
 
