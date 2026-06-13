@@ -8,6 +8,8 @@ I'm a 3rd year Data Science student at UC San Diego passionate about AI/ML engin
 - 👯 I'm looking to collaborate on open source or startup projects
 - 📫 How to reach me: nvnguyen109@gmail.com
 
+## Projects
+Moodify - AI Music Recommendation Engine: [moodify.streamlit.app](https://spotify-song-recommender-cbdygkccpyqqsgzntmrpru.streamlit.app)
 ## Tech Stack
 
 **Languages:**  
